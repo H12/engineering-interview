@@ -34,7 +34,7 @@ Choose one of your favorite online services (Tumblr, Etsy, Airbnb, etc.) and clo
 It is up to you to decide the fidelity of this solution, and which languages you use.  However, please be reminded that we are a Rails and React shop, and showcasing your familiarity with one or both of those languages is to your benefit.
 
 For this prompt, please satisfy the following **acceptance criteria**:
-* Choose a service to clone, and briffly document why you chose that
+* Choose a service to clone, and briefly document why you chose that
 * Create an MVP of that service's core functionality using the stack of your choice.
 
 
