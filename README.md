@@ -2,7 +2,7 @@
 ## Introduction
 Hello candidate!  Congratulations on making it to this point of the interview process.  We already have determined that you are a great culture-fit, and would like to better gauge your technical acumen, and your approach to solving problems.
 
-Please review the four coding challenge prompts below and select **one** to complete.  We mainly use React/JS & Ruby/Rails, but feel free to use whatever language(s) or frameworks you're comfortable with\*. We love it when people can walk us through their setup in depth!
+Please review the four coding challenge prompts below and select **one** to complete.  We mainly use React/JS & Ruby/Rails, but feel free to use whatever language(s) or frameworks you're comfortable with\*. We love it when people can walk us through their setup in depth!  Be sure to also read the supporting information at the end of this file for some additional information to keep in mind.
 
 ## Prompts
 ### Prompt 1: Vaystays Search
@@ -45,7 +45,7 @@ The gist of this prompt is to recreate the Game of Life programatically.  It is 
 
 For this prompt, please satisfy the following **acceptance criteria**:
 * Initialize a 50x50 grid of cells, all considered dead, to begin with.
-* Be able to take in the following cells to set as live, in order to initialize the game:
+* Be able to take in the following cells [x,y] to set as live, in order to initialize the game:
  * [0][0]
  * [0][1]
  * [1][0]
